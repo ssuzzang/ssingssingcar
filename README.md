@@ -126,7 +126,7 @@ Link :
     
 - 시연 영상 2
 
-[https://youtu.be/qjYvi7tAHwM](https://youtu.be/qjYvi7tAHwM)
+    [https://youtu.be/qjYvi7tAHwM](https://youtu.be/qjYvi7tAHwM)
 
 ---
 
