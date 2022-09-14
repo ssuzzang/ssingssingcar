@@ -1,6 +1,7 @@
 # ssingssingcar
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/50cb4134-4666-49df-b62c-def86bd63082/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190100472-62a359e2-e12c-40d8-a1ee-ee2a9df14986.png)
+
 
 Date : 2022.7.11~2022.8.5
 
