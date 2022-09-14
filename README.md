@@ -55,13 +55,13 @@ Link :
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30a6a67d-2a0b-4021-81dd-b5684b41cd79/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190102681-2a60261d-3c16-4ec7-9881-ca9110da7a0a.png)
 
 - 2인 팀으로 구성되어 있으며 각자 역할을 두지 않고 자유롭게 소통하며 단계를 나누어 필요한 기술 스택을 쌓으며 협업하는 방식으로 진행하였습니다.
 
 ---
 
-![image](https://user-images.githubusercontent.com/97435321/190102168-db2120c5-93a3-4c1e-9839-83f10a2e12ba.png)
+![image](https://user-images.githubusercontent.com/97435321/190102728-63978548-4679-4bb4-9d4f-b4526ffa2e15.png)
 
 수행 절차 및 방법
 
@@ -72,7 +72,7 @@ Link :
 
 ---
 
-![image](https://user-images.githubusercontent.com/97435321/190102326-3ebbeb16-bfa7-4c9e-8524-7c59ad321b38.png)
+![image](https://user-images.githubusercontent.com/97435321/190102872-0245e327-7aa8-4690-bb03-ca6d14a4a6c6.png)
 
 1. 라즈베리파이에 라즈비안OS를 설치하고 기본 환경 세팅을 합니다.
 2. 프로젝트에 필요한 환경 구축을 위해 파이썬, opencv등 라이브러리를 설치합니다.
@@ -82,7 +82,7 @@ Link :
 
 ---
 
-![image](https://user-images.githubusercontent.com/97435321/190102422-642e973f-2b09-47ba-b2b8-699e78c7d76f.png)
+![image](https://user-images.githubusercontent.com/97435321/190102975-c03e50b3-a242-4708-8f37-0d9c23ad1773.png)
 
 - Raspberry Pi
     - Raspbian os 64bit 설치하였습니다.
@@ -97,7 +97,7 @@ Link :
 
 ---
 
-![스크린샷 2022-09-04 오전 10.40.54.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/be3d0147-fd6d-44d5-8657-906084664824/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-04_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.40.54.png)
+![image](https://user-images.githubusercontent.com/97435321/190103036-41eacc51-9839-4134-bbfb-9cf3f92d5fa9.png)
 
 - 카메라를 통해 opencv 라이브러리를 이용하여 기초적인 차선 인식 주행을 하였습니다.
 - Lane detection Algorithms를 이용하였습니다.
@@ -109,9 +109,9 @@ Link :
 
 - 프로젝트 수행 결과
 
-![스크린샷 2022-09-04 오전 10.54.35.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/964b0508-0017-4a1a-9a73-b0fa2698b175/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-04_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.54.35.png)
+![image](https://user-images.githubusercontent.com/97435321/190103085-eb0b62c4-7fdb-4dd9-92fa-39c89c28ae09.png)
 
-![스크린샷 2022-09-04 오전 10.54.46.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/1bc2aa17-0940-45f6-8b38-da2ff2e3943e/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-04_%E1%84%8B%E1%85%A9%E1%84%8C%E1%85%A5%E1%86%AB_10.54.46.png)
+![image](https://user-images.githubusercontent.com/97435321/190103154-47287133-8a5f-4a12-b1cb-c6cd4d563db6.png)
 
 - 딥러닝 차선 인식 주행을 하기 위해 PNG이미지와 이미지에 기록된 차선 각도를 이용하여 데이터 라벨링을 하였습니다.
 - 이미지를 사용하여 정보를 정확히 파악하고 자동차의 조향 각도를 예측하기 위해 Nvidia모델을 사용하였습니다.
