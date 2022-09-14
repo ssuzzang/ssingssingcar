@@ -26,17 +26,17 @@ Link :
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/dcd13b51-c994-4c0f-b1a6-d1420c145d43/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190101633-a3ad58c2-86b5-4e71-aef0-3b6b63a22d27.png)
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd1d3c00-2365-4d89-9dc6-77b1b0fd4d56/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190101760-58976dbf-1705-4fc2-a780-9cbade5d3049.png)
 
 - 주제는 라즈베리파이를 이용한 자율주행 RC카 입니다.
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/a1a54ef6-ca05-4d0a-9c6e-b94145001c43/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190101817-b5ed46dc-3505-4037-b1f0-b9bf109f22cf.png)
 
 - 선정 배경  : 자율주행이 사고방지 및 운전자의 편의성에 얼마나 영향을 주는지 알아내기 위해
 - 기대 효과 :
@@ -47,7 +47,7 @@ Link :
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/391feb39-8357-4879-9c6e-6ecdd1f20355/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190101958-74c7fde2-a34c-4754-b695-632a2e6abc40.png)
 
 - 라즈베리파이와 전용 RC카 모듈키트
 - Pi 카메라 와 RC카를 원격으로 제어할 컴퓨터
