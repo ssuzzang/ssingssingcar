@@ -61,7 +61,7 @@ Link :
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0205fca0-0bac-477f-a4e5-2a4f2a678e4c/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190102168-db2120c5-93a3-4c1e-9839-83f10a2e12ba.png)
 
 수행 절차 및 방법
 
@@ -72,7 +72,7 @@ Link :
 
 ---
 
-![스크린샷 2022-09-03 오후 7.23.00.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ed98adfe-783e-4c5e-95cd-330cf411ec3d/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7.23.00.png)
+![image](https://user-images.githubusercontent.com/97435321/190102326-3ebbeb16-bfa7-4c9e-8524-7c59ad321b38.png)
 
 1. 라즈베리파이에 라즈비안OS를 설치하고 기본 환경 세팅을 합니다.
 2. 프로젝트에 필요한 환경 구축을 위해 파이썬, opencv등 라이브러리를 설치합니다.
@@ -82,7 +82,7 @@ Link :
 
 ---
 
-![스크린샷 2022-09-03 오후 7.38.02.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/f5375924-8216-47e8-9141-adfd2d381c1f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-09-03_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_7.38.02.png)
+![image](https://user-images.githubusercontent.com/97435321/190102422-642e973f-2b09-47ba-b2b8-699e78c7d76f.png)
 
 - Raspberry Pi
     - Raspbian os 64bit 설치하였습니다.
