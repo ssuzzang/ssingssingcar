@@ -9,7 +9,7 @@ Tags : `RaspberryPi` `OpenCV` `Tensorflow` `Keras` `Python`
 
 Link : 
 
-[https://github.com/ssuzzang/ssingssingcar](https://github.com/ssuzzang/ssingssingcar)
+
 
 발표영상 : 
 
